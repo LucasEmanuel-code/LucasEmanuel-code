@@ -16,12 +16,12 @@
     </a>
     <a href="http://github.com/LucasEmanuel-code">
       <img src="https://github-readme-stats.vercel.app/api?username=LucasEmanuel-code&show_icons=true&theme=dark" />
+           <a>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEmanuel-code&layout=compact&theme=dark" />
+      </a>
     </a>
     <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=LucasEmanuel-code&theme=dark&hide_border=falso&border_radius=4.6&locale=pt_BR&short_numbers=falso&exclude_days=Sun" alt="GitHub Streak" />
-      <a>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEmanuel-code&layout=compact&theme=dark" />
-      </a>
     </a>
   </div>
 </div>
