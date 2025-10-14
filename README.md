@@ -1,11 +1,10 @@
 
 ### Hi! I'm Lucas
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; padding: 15px; border-radius: 10px; background: linear-gradient(135deg, #1f022e, #006400);">
  <p>
    Atualmente estudo Curso Técnico em Desenvolvimento de Sistemas na Uninter
  </p>
-  
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
   <div style="display: flex; gap: 10px;">
     <a href="http://github.com/LucasEmanuel-code">
       <picture>
