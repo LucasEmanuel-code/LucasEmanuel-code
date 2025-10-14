@@ -4,7 +4,6 @@
  <p>
    Atualmente estudo Curso Técnico em Desenvolvimento de Sistemas na Uninter
  </p>
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
   <div style="display: flex; gap: 10px;">
     <a href="http://github.com/LucasEmanuel-code">
       <picture>
@@ -25,6 +24,7 @@
     </a>
   </div>
 </div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <p>
  Algumas tecnologias que uso:
  <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
