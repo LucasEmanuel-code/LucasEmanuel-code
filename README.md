@@ -31,7 +31,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasEmanuel-code&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=4CAF50&icon_color=4CAF50&text_color=FFFFFF"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEmanuel-code&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=4CAF50&text_color=FFFFFF"/>
   </div>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" alt="ilustração de um computador">
 </div>
 
 ---
